@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @byeugenius
+- 👀 I’m interested in **Python** programming
+- 🌱 I’m currently learning at [Practicum by Yandex](https://practicum.yandex.com)
+- 💞️ I’m looking to collaborate on **Python** projects
+- 📫 How to reach me: [VK,](https://vk.com/byeugenius) [Telegram](https://t.me/byeugenius)
